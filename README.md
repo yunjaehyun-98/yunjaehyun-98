@@ -6,7 +6,7 @@
 
 ## 🌱 Currently Studying
 
-### 🐍 Python  ### 🐙 GitHub  ### 🔧 Git 
+### 🐍 Python  🐙 GitHub  🔧 Git 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 
 ---
